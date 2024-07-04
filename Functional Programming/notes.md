@@ -12,3 +12,5 @@ Topics:
 11. What is Stream filter, map, forEach, reduce, sort, distinct
 12. what are the overloaded version of reduce available in stream
 13. What is stream collect, what all convenient method to collect, diffent ways of implementation
+14. Grouping By , PartitionBy implementation
+15. Collector & Collectors difference
